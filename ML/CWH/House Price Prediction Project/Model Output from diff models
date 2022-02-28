@@ -1,0 +1,12 @@
+1) Linear Regression
+        Mean    :  4.385533570427067
+        Std Dev :  1.1867571051871235
+        
+        
+2) Decision Tree Regression      
+        Mean    :  4.105845766889585
+        Std Dev :  0.7673962483160269
+        
+3) Random Forest
+        Mean:  3.297989064782551
+        Std Dev :  0.6618269329548805
